@@ -268,7 +268,7 @@ Mas existem cuidados importantes como treinar com orientação profissional, pri
     },
     {
         id: 19,
-        title: "Governo anuncia vaccine obrigatória contra gripe que causa queda de cabelo",
+        title: "Governo anuncia vacina obrigatória contra gripe que causa queda de cabelo",
         subtitle: "Mensagens nas redes sociais afirmam que o governo brasileiro teria aprovado uma nova vacina obrigatória contra a gripe",
         preview: "Segundo essas publicações, o imunizante causaria efeitos colaterais graves como queda de cabelo.",
         content: `Mensagens nas redes sociais afirmam que o governo brasileiro teria aprovado uma nova vacina obrigatória contra a gripe.
